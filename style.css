@@ -1,0 +1,101 @@
+body {
+    background-color: rgb(19, 19, 75);
+}
+.title {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+.link {
+    font-size: 21px;
+    font-family: sans-serif;
+}
+.link.mcs {
+    
+    background-color: rgb(235, 235, 135);
+}
+.link.cbs {
+    background-color: rgb(180, 140, 140);
+}
+.link.bs {
+    background-color: rgb(190, 215, 240);
+}
+
+
+.mcspic {
+    width: 450px;
+}
+.cbspic {
+    width: 500px;
+}
+.bspic {
+    width: 450px;
+}
+
+
+.des {
+    font-size: 30px;
+    text-align: center;
+}
+.des.mcs {
+    color: rgb(235, 235, 135);
+}
+.des.cbs {
+    color: rgb(180, 140, 140);
+}
+.des.bs {
+    color: rgb(190, 215, 240);
+}
+
+
+.ing {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+
+.ul {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ul.mcs {
+    color: rgb(235, 235, 135);
+}
+.ul.cbs {
+    color: rgb(180, 140, 140);
+}
+.ul.bs {
+    color: rgb(190, 215, 240);
+}
+
+
+.ol {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ol.mcs {
+    color: rgb(235, 235, 135);
+}
+.ol.cbs {
+    color: rgb(180, 140, 140);
+}
+.ol.bs {
+    color: rgb(190, 215, 240);
+}
+
+
+.cbstitle {
+    font-size: 30px;
+    color: #ffffff;
+}
+.gcbtitle {
+    font-size: 30px;
+    color: #ffffff;
+}
+.gcbol {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(180, 140, 140);
+}
